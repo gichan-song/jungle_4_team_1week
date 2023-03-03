@@ -127,10 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="A+B.cpp" />
+    <ClCompile Include="OX퀴즈.cpp" />
+    <ClCompile Include="X보다 작은 수.cpp" />
     <ClCompile Include="구구단.cpp" />
+    <ClCompile Include="별 찍기.cpp" />
     <ClCompile Include="시험 성적.cpp" />
     <ClCompile Include="윤년.cpp" />
     <ClCompile Include="직사각형에서 탈출.cpp" />
+    <ClCompile Include="최댓값.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
