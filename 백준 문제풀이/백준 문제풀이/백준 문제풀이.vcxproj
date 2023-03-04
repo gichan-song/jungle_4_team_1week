@@ -136,6 +136,7 @@
     <ClCompile Include="윤년.cpp" />
     <ClCompile Include="직사각형에서 탈출.cpp" />
     <ClCompile Include="최댓값.cpp" />
+    <ClCompile Include="평균은 넘겠지.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
