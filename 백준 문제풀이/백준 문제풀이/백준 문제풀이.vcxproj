@@ -131,12 +131,17 @@
     <ClCompile Include="OX퀴즈.cpp" />
     <ClCompile Include="X보다 작은 수.cpp" />
     <ClCompile Include="구구단.cpp" />
+    <ClCompile Include="단어의 개수.cpp" />
+    <ClCompile Include="문자열 반복.cpp" />
     <ClCompile Include="별 찍기.cpp" />
+    <ClCompile Include="상수.cpp" />
     <ClCompile Include="시험 성적.cpp" />
+    <ClCompile Include="아스키 코드.cpp" />
     <ClCompile Include="윤년.cpp" />
     <ClCompile Include="직사각형에서 탈출.cpp" />
     <ClCompile Include="최댓값.cpp" />
     <ClCompile Include="평균은 넘겠지.cpp" />
+    <ClCompile Include="피카츄.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
